@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"haclient"
+	"github.com/rrati/etcd-ha/src/haclient"
 )
 
 func main() {
